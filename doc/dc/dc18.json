@@ -1,0 +1,10 @@
+//http://williamc.tplinkdns.com/iptv/dc/dc.json
+//http://williamc.ddns.net/iptv/dc/dc.json
+{"urls":[
+{"name":"🐯自定tb","url":"http://williamc.tplinkdns.com/iptv/tb.json"},
+{"name":"🐯自定fav","url":"http://williamc.tplinkdns.com/iptv/fav.json"},
+
+
+
+{"name":"🐯自定🐯","url":"http://williamc.tplinkdns.com/iptv/fav.json"}
+]}
