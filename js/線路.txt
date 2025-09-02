@@ -1,0 +1,159 @@
+//線路 
+//明星库
+https://jinman2.com/index.php/vod/search/actor/白敬亭.html
+https://www.luju.tw/actorshow/-------女-/id/37.html
+https://www.yingzhazha.com/actorshow/-------%E5%A5%B3-.html
+
+// api接口仅供提供数据，可以直接在苹果CMS后台联盟采集中加入-并提供给他人采集。
+// 联盟资源分配唯一标识ID，用来区别绑定分类，这个ID一般由苹果CMS官方提供，不可随意修改设置，否则造成入库分类错乱。
+// 1,视频列表地址https://slapibf.com/api.php/provide/vod/?ac=list
+// 2,视频详情地址https://slapibf.com/api.php/provide/vod/?ac=detail
+// 列表接收参数：
+// ac=list
+// t=类别ID
+// pg=页码
+// wd=搜索关键字
+// h=几小时内的数据
+// 例如：https://slapibf.com/api.php/provide/vod/?ac=list&t=1&pg=5 分类ID为1的列表数据第5页
+// 内容接收参数：
+// 参数 ids=数据ID，多个ID逗号分割。
+// t=类型ID
+// pg=页码
+// h=几小时内的数据
+// 例如: https://slapibf.com/api.php/provide/vod/?ac=detail&ids=123,567 获取ID为123和567的数据信息
+// https://slapibf.com/api.php/provide/vod/?ac=detail&h=24 获取24小时内更新数据信息
+
+~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+
+~[极速线路1>>非凡#极速线路2>>索尼#极速线路3>>暴风#极速线路4>>快看#超清线路1>>乐视#超清线路2>>新浪#备用线路1>>红牛#备用线路2>>无尽#蓝光专享1>>SEVEN#蓝光专享2>>腾讯#蓝光专享3>>优酷#蓝光专享4>>奇艺#蓝光专享5>>芒果#大米蓝光>>大米DD#]
+
+量子lz>v.cdnlz2.com								非凡ff>svipsvip.ffzy.online5.com
+快云ky>vip.kuaiyun4-cdn.com						海外看hwk>m3u.haiwaikan.com
+天空tk>v10.dious.cc								乐视ls>leshiyuncdn.36s.top
+卧龙wl>cdn.wlcdn99.com							飞速fs>s10.fsvod1.com 
+优质yz>hdzy.play-cdn23.com yzzy.play-cdn21.com	优质yz>1080zyk.com
+爱坤ik>ikcdn01.ikzybf.com 						快看kk>vip.kuaikan-cdn4.com
+暴风bf>s5.bfengbf.com							豪华hh>play.hhuus.com
+闪电sd>v10.fentvoss.com ok v10.youkuoss.com ok	快播kb>
+
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	百度bd>vod6.bdzybf7.com
+光速gs>v.gsuus.com								樱花yh>sod12.xmyysw.com
+八戒bj>c3.monidai.com							速播sb>vod.subokk.com
+U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
+红牛hn>hnzy.bfvvs.com 							新浪xl>bf.xluuss.com
+快车kc>vod2.pptvoss.com							极速js>v.jisubf.com
+金鹰jy>hd.ijycnd.com								虎牙hy>1080p.huyall.com
+最大zd>v4.mstopq.com								奇虎qh>cdn1.qihubf.com
+49>vip4.49zyvideoplayurl.com					淘片tp>sd8.taopianplay1.com
+鱼乐yl>y2.ylbf1.com								CK>www.ldxmcloud.com
+魔都>play.modujx10.com							>
+奇艺qy>v10.iqiyioss.com							芒果mg
+腾讯tx											优酷yk
+
+量子lz>v.cdnlz2.com
+非凡ff>svipsvip.ffzy.online5.com
+快云ky>vip.kuaiyun4-cdn.com
+海外看hwk>m3u.haiwaikan.com
+乐视ls>leshiyuncdn.36s.top
+天空tk>v10.dious.cc
+卧龙wl>cdn.wlcdn99.com
+飞速fs>s10.fsvod1.com 
+优质yz>hdzy.play-cdn23.com
+优质yz>yzzy.play-cdn21.com
+优质yz>1080zyk.com
+爱坤ik>ikcdn01.ikzybf.com 
+闪电sd>v10.fentvoss.com v10.youkuoss.com 
+快看kk>vip.kuaikan-cdn4.com
+暴风bf>s5.bfengbf.com
+豪华hh>play.hhuus.com
+
+百度bd>vod6.bdzybf7.com
+光速gs>v.gsuus.com
+樱花yh>sod12.xmyysw.com
+八戒bj>c3.monidai.com
+速播sb>vod.subokk.com
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com
+U酷uk>ukzy.ukubf4.com 
+无尽wj>v8.kuaioss.com
+红牛hn>hnzy.bfvvs.com 
+新浪xl>bf.xluuss.com
+快车kc>vod2.pptvoss.com
+极速js>v.jisubf.com top.letvoss.com
+金鹰jy>hd.ijycnd.com
+虎牙hy>1080p.huyall.com
+最大zd>v4.mstopq.com
+奇虎qh>cdn1.qihubf.com
+49>vip4.49zyvideoplayurl.com
+淘片tp>sd8.taopianplay1.com
+鱼乐>y2.ylbf1.com
+v10.iqiyioss.com
+
+~[替换:超高畫質>>海外看#1080P雲>>快看#高畫質>>索尼#快速線路>>百度#高清雲>>乐视#加速線路>>卧龙#量子線路>>量子#最大雲>>最大#快雲>>快雲#光速雲>>光速#暴風線路>>暴風#蜂速雲>>金鹰#高速雲>>虎牙#飛雲>>优质#速播雲>>速播#閃電雲>>閃電#極速線路>>极速#櫻花雲>>櫻花#飛速雲2>>飞速#飛速雲>>飞速#天空線路>>天空#八戒線路>>八戒#華速雲>>豪华#快車雲>>快車#]
+奇艺>v10.iqiyioss.com
+芒果
+腾讯
+优酷
+~[排序:黑木耳>量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+
+
+
+https://xzybb1.com/api.php/provide/vod/?ac=list
+"明星换脸","日韩无码","国产精品","日韩精品","欧美精品","动漫精品","自拍偷拍","伦理影片","中文字幕","人妻系列","制服诱惑","强奸乱伦","AV明星","SM重味","巨乳系列","颜射系列","口交视频","自慰系列","教师学生","大秀视频","AV解说"
+
+"日韩无码","明星换脸","国产精品","日韩精品","欧美精品","动漫精品","自拍偷拍","伦理影片","中文字幕","人妻系列","制服诱惑","强奸乱伦","AV明星","SM重味","巨乳系列","颜射系列","口交视频","自慰系列","教师学生","大秀视频","AV解说"
+
+"明星换脸","日本无码","欧美无码","国产视频","中文字幕","国产传媒","日本有码","强奸乱伦","制服诱惑","国产主播","激情动漫","抖阴视频","女优明星","视频一区","视频二区","网曝黑料","视频三区","伦理三级","AV解说","SM调教","萝莉少女","极品媚黑","女同性恋","网红头条","视频四区","人妖系列","韩国主播","VR视角"
+
+"亚洲无码","街拍偷拍","精品推荐","国产色情","主播直播","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔","都市激情","校园情事","人妻縱情","風俗倫理","另类小说","武侠古典","长篇连载","唯美写真","网友自拍","露出激情","丝袜美腿","卡通漫画","欧美风情"
+
+https://apiyutu.com/api.php/provide/vod/?ac=list
+https://yutujx.com/?url=
+"明星换脸","日本无码","精品推荐","国产精品","主播秀色","日本有码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","三级伦理","卡通动漫","丝袜OL","自拍偷拍","日本片商","剧情介绍","网曝系列","麻豆传媒","国产乱伦","国产丝袜","国产SM","国产人妻","探花嫖娼","同性恋"
+
+https://apidanaizi.com/api.php/provide/vod/?ac=list
+无广告解析接口：https://apidanaizi.com/
+"视频一区","视频二区","视频三区","视频四区","精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
+
+{"type_id":1,"type_pid":0,"type_name":"电视剧"},
+
+
+{"type_id":2,"type_pid":0,"type_name":"电影"},
+
+
+// {"type_id":20,"type_pid":1,"type_name":"内地剧"},
+// {"type_id":3,"type_pid":1,"type_name":"欧美剧"},
+// {"type_id":4,"type_pid":1,"type_name":"香港剧"},
+// {"type_id":5,"type_pid":1,"type_name":"韩剧"},
+// {"type_id":6,"type_pid":1,"type_name":"日剧"},
+// {"type_id":7,"type_pid":1,"type_name":"马泰剧"},
+// {"type_id":28,"type_pid":1,"type_name":"台湾剧"},
+
+// {"type_id":8,"type_pid":0,"type_name":"伦理片"},
+// {"type_id":9,"type_pid":2,"type_name":"动作片"},
+// {"type_id":10,"type_pid":2,"type_name":"爱情片"},
+// {"type_id":11,"type_pid":2,"type_name":"喜剧片"},
+// {"type_id":12,"type_pid":2,"type_name":"科幻片"},
+// {"type_id":13,"type_pid":2,"type_name":"恐怖片"},
+// {"type_id":14,"type_pid":2,"type_name":"剧情片"},
+// {"type_id":15,"type_pid":2,"type_name":"战争片"},
+// {"type_id":16,"type_pid":2,"type_name":"记录片"},
+// {"type_id":23,"type_pid":2,"type_name":"动画片"},
+
+// {"type_id":17,"type_pid":0,"type_name":"动漫"},
+// {"type_id":24,"type_pid":17,"type_name":"中国动漫"},
+// {"type_id":25,"type_pid":17,"type_name":"日本动漫"},
+// {"type_id":26,"type_pid":17,"type_name":"欧美动漫"},
+
+// {"type_id":27,"type_pid":0,"type_name":"综艺"},
+// {"type_id":29,"type_pid":0,"type_name":"体育赛事"},
+// {"type_id":30,"type_pid":0,"type_name":"短剧"}
+
+
+
+
+
+
+
+
+
+
