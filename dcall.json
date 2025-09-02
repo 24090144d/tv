@@ -5,16 +5,12 @@
 
 {"urls": [
 
-{"name":"🐯自定GHfav","url":"https://raw.githubusercontent.com/s14685/tv/main/favgh.json"},
-{"name":"🐯自定GHtb","url":"https://raw.githubusercontent.com/s14685/tv/main/tbgh.json"},
+{"name":"🐯自定GHfav","url":"https://raw.githubusercontent.com/24090144d/tv/refs/heads/main/favgh.json"},
 {"name":"🐯自定fav","url":"http://williamc.tplinkdns.com/iptv/fav.json"},
-{"name":"🐯自定tb","url":"http://williamc.tplinkdns.com/iptv/tb.json"},
-{"name":"🐯自定tvbox","url":"http://williamc.tplinkdns.com/iptv/tvbox.json"},
-{"name":"🐯自定favnet","url":"http://winniec.ddns.net/iptv/favnet.json"},
-{"name":"🐯自定tbnet","url":"http://winniec.ddns.net/iptv/tbnet.json"},
-{"name":"🐯自定net","url":"http://williamc.ddns.net/iptv/net.json"},
 {"name":"🐯自定fty","url":"http://williamc.tplinkdns.com/iptv/fty.json"},
 {"name":"🐯自定m","url":"http://williamc.tplinkdns.com/iptv/m.json"},
+{"name":"🐯自定dianshi","url":"https://github.com/qist/tvbox/raw/refs/heads/master/dianshi.json"},
+{"name":"🐯自定zy","url":"https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/zy.json"},
 
 // ✅多多线路
 {"name": "🐹狸云影视资源" ,"url":"https://www.lysvc.cc/tvbox/TVshare.json"},
