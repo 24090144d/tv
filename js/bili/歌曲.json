@@ -434,7 +434,7 @@
     }
     
   ],
-   "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7",    
+   //"cookie": "http://williamc.tplinkdns.com/iptv/js/bili/bili-cookies.txt",    
   "filter": {"演唱会": [
  {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
