@@ -20,7 +20,7 @@
 //{"spider":"https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt;md5;bcaa35ff60c87f537cf509da3c40411e","wallpaper":"", //v2
 //{"key": "drpy_js_豆瓣","name": "🌺豆瓣評分🌺","type": 3,"api": "https://github.com/qist/tvbox/raw/refs/heads/master/lib/drpy2.min.js","ext": "https://github.com/qist/tvbox/raw/refs/heads/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
 
-{"spider":"https://raw.githubusercontent.com/24090144d/tv/main/fan.txt;md5;bcaa35ff60c87f537cf509da3c40411e","wallpaper":"", //v2
+{"spider":"https://raw.githubusercontent.com/24090144d/tv/main/js/fan.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"", //v1
 "sites":[
 
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/24090144d/tv/main/js/douban.js"},
