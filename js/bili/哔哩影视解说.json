@@ -284,6 +284,7 @@
 
  {"key": "tid", "name": "分类1", "value": [
 	{ "n": "全部", "v": "" },
+    {"n": "智爷PTCGpocket", "v": "智爷PTCGpocket"},
     {"n": "二土erTu", "v": "二土erTu"},
     {"n": "涩袋PTCGPocket", "v": "涩袋PTCGPocket"},
     {"n": "黑雪HeixueGames", "v": "黑雪HeixueGames"},
@@ -291,7 +292,6 @@
 
     {"n": "Re7_hk", "v": "Re7_hk"},
     {"n": "古月-成成", "v": "古月-成成"},
-    {"n": "智爷PTCGpocket", "v": "智爷PTCGpocket"},
 
     {"n": "PTCG+Pocket", "v": "PTCG+Pocket"},
     {"n": "PTCG+A3b", "v": "PTCG+A3b"},

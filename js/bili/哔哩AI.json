@@ -1,0 +1,250 @@
+//https://search.bilibili.com/all?keyword=AI合集详解&from_source=webtop_search&spm_id_from=333.788&search_source=5
+
+{
+ "classes": [
+
+ {"type_name":"九天Hector","type_id":"九天Hector"},
+ {"type_name":"AI入门教程","type_id":"AI入门教程"},
+ {"type_name":"PyTorch","type_id":"PyTorch"},
+	
+
+ {"type_name": "持续更新","type_id": ""}
+ ],
+ 
+//"cookie": "http://williamc.tplinkdns.com/iptv/js/bili/bili-cookies.txt", 
+ "filter": {
+
+
+//AI合集
+//https://search.bilibili.com/all?keyword=AI合集&duration=4&order=pubdate
+"九天Hector": [
+{"key": "order","name": "排序","value": [{"n": "综合排序","v": "0"},{"n": "最多点击","v": "click"},{"n": "最新发布","v": "pubdate"},{"n": "最多弹幕","v": "dm"},{"n": "最多收藏","v": "stow"}]},
+{"key": "duration","name": "时长","value": [{"n": "全部时长","v": "0"},{"n": "60分钟以上","v": "4"},{"n": "30~60分钟","v": "3"},{"n": "10~30分钟","v": "2"},{"n": "10分钟以下","v": "1"} ] },
+
+ {"key": "tid", "name": "AI1", "value": [
+ { "n": "全部", "v": "九天Hector" },
+ { "n": "九天Hector", "v": "九天Hector" },
+ { "n": "ShiianAI", "v": "ShiianAI" },
+ { "n": "聚客AI-DeepSeek", "v": "聚客AI-DeepSeek" },
+ { "n": "AI蒸馏", "v": "AI蒸馏" },
+ { "n": "AI大模型基地", "v": "AI大模型基地" },
+ { "n": "我是土堆", "v": "我是土堆" },
+ { "n": "聚客Ai联盟", "v": "聚客Ai联盟" },
+ { "n": "AI入门101", "v": "AI入门101" },
+ { "n": "我是土堆", "v": "我是土堆+PyTorch深度学习" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI2", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "影刀RPA", "v": "影刀RPA" },
+ { "n": "智泊AI官方课堂", "v": "智泊AI官方课堂" },
+ { "n": "大模型学习课堂", "v": "大模型学习课堂" },
+ { "n": "赋范课堂", "v": "赋范课堂" },
+ { "n": "马士兵官方账号", "v": "马士兵官方账号" },
+ { "n": "大模型官方课程", "v": "大模型官方课程" },
+ { "n": "AI大模型码农", "v": "AI大模型码农" },
+ { "n": "图灵程序员", "v": "图灵程序员" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+ 
+ {"key": "tid", "name": "AI3", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "Dify教程合集", "v": "Dify教程合集" },
+ { "n": "AI+Agent", "v": "AI+Agent+合集" },
+ { "n": "GraphRAG", "v": "GraphRAG+合集" },
+ { "n": "PyTorch", "v": "PyTorch+合集" },
+ { "n": "Jupyter", "v": "Jupyter+合集" },
+ { "n": "Python", "v": "Python+合集" },
+ { "n": "NLP", "v": "NLP自然语言+合集" },
+ { "n": "Transformer", "v": "Transformer+合集" },
+ { "n": "Manus", "v": "Manus+教程" }, 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+
+ {"key": "tid", "name": "AI4", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "本地部署到微调", "v": "BV1fT4y147uM" },
+ { "n": "GPT-OSS中文推理链微调", "v": "BV1EyYPzyEcg" },
+ { "n": "Dify快速入门与开发实战", "v": "BV1R7nEzLE4V" },
+ { "n": "MCP入门到实战67集", "v": "BV1fdMgzPEAk" },
+ { "n": "MCP进阶实战50集", "v": "BV1AUgVzWEWU" },
+
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+ 
+ {"key": "tid", "name": "AI5", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "Qwen3使用教程37集", "v": "BV1YjJHzSErM" },
+ { "n": "OCR策略RAG识别率", "v": "BV1AUgVzWEWU" },
+ { "n": "2025大模型全体38集", "v": "BV1ADw7eSEpc" },
+ { "n": "大模型微调所需硬件", "v": "BV19WeAzAEPJ" },
+ { "n": "专业领域微调", "v": "BV1RmebzkEyV" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI6", "value": [
+ { "n": "全部", "v": "AI合集" },
+ { "n": "2026", "v": "AI合集2026&duration=4&order=pubdate" },
+ { "n": "2025", "v": "AI合集2025&duration=4&order=pubdate" },
+ { "n": "2024", "v": "AI合集2024&duration=4&order=pubdate" },
+ { "n": "2023", "v": "AI合集2023&duration=4&order=pubdate" },
+ 
+ { "n": "持续更新", "v": "0"}
+
+]
+}
+],
+
+
+//AI入门教程
+//https://search.bilibili.com/all?keyword=AI合集详解&from_source=webtop_search
+"AI入门教程": [
+{"key": "order","name": "排序","value": [{"n": "综合排序","v": "0"},{"n": "最多点击","v": "click"},{"n": "最新发布","v": "pubdate"},{"n": "最多弹幕","v": "dm"},{"n": "最多收藏","v": "stow"}]},
+{"key": "duration","name": "时长","value": [{"n": "全部时长","v": "0"},{"n": "60分钟以上","v": "4"},{"n": "30~60分钟","v": "3"},{"n": "10~30分钟","v": "2"},{"n": "10分钟以下","v": "1"} ] },
+
+ {"key": "tid", "name": "AI1", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "AI入门教程", "v": "AI入门教程" },
+ { "n": "AI+Agent", "v": "AI+Agent+入门教程" },
+ { "n": "GraphRAG", "v": "GraphRAG+AI入门教程" },
+ { "n": "PyTorch", "v": "PyTorch+AI入门教程" },
+ { "n": "Jupyter", "v": "Jupyter+AI入门教程" },
+ { "n": "Python", "v": "Python+AI入门教程" },
+ { "n": "NLP", "v": "NLP自然语言+AI入门教程" },
+ { "n": "Transformer", "v": "Transformer+AI入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI2", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "马士兵官方账号", "v": "马士兵官方账号" },
+ { "n": "聚客AI-DeepSeek", "v": "聚客AI-DeepSeek" },
+ { "n": "智泊AI官方课堂", "v": "智泊AI官方课堂" },
+ { "n": "九天Hector", "v": "九天Hector" },
+ { "n": "赋范课堂", "v": "赋范课堂" },
+ { "n": "黄益贺", "v": "黄益贺" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI3", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "AI入门教程", "v": "AI入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI4", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "AI入门教程", "v": "AI入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+ 
+ {"key": "tid", "name": "AI5", "value": [
+ { "n": "全部", "v": "AI入门教程" },
+ { "n": "AI入门教程", "v": "AI入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI6", "value": [
+ { "n": "全部", "v": "AI合集" },
+ { "n": "2026", "v": "AI合集2026&duration=4&order=pubdate" },
+ { "n": "2025", "v": "AI合集2025&duration=4&order=pubdate" },
+ { "n": "2024", "v": "AI合集2024&duration=4&order=pubdate" },
+ { "n": "2023", "v": "AI合集2023&duration=4&order=pubdate" },
+ 
+ { "n": "持续更新", "v": "0"}
+
+]
+}
+],
+
+//PyTorch
+//https://search.bilibili.com/all?keyword=PyTorch&from_source=webtop_search
+"PyTorch": [
+{"key": "order","name": "排序","value": [{"n": "综合排序","v": "0"},{"n": "最多点击","v": "click"},{"n": "最新发布","v": "pubdate"},{"n": "最多弹幕","v": "dm"},{"n": "最多收藏","v": "stow"}]},
+{"key": "duration","name": "时长","value": [{"n": "全部时长","v": "0"},{"n": "60分钟以上","v": "4"},{"n": "30~60分钟","v": "3"},{"n": "10~30分钟","v": "2"},{"n": "10分钟以下","v": "1"} ] },
+
+ {"key": "tid", "name": "AI1", "value": [
+ { "n": "全部", "v": "PyTorch" },
+ { "n": "PyTorch合集", "v": "PyTorch合集" },
+ { "n": "PyTorch入门教程", "v": "PyTorch入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI2", "value": [
+ { "n": "全部", "v": "PyTorch" },
+ { "n": "PyTorch合集", "v": "PyTorch合集" },
+ { "n": "PyTorch入门教程", "v": "PyTorch入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI3", "value": [
+ { "n": "全部", "v": "PyTorch" },
+ { "n": "PyTorch合集", "v": "PyTorch合集" },
+ { "n": "PyTorch入门教程", "v": "PyTorch入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI4", "value": [
+ { "n": "全部", "v": "PyTorch" },
+ { "n": "PyTorch合集", "v": "PyTorch合集" },
+ { "n": "PyTorch入门教程", "v": "PyTorch入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+ 
+ {"key": "tid", "name": "AI5", "value": [
+ { "n": "全部", "v": "PyTorch" },
+ { "n": "PyTorch合集", "v": "PyTorch合集" },
+ { "n": "PyTorch入门教程", "v": "PyTorch入门教程" },
+ 
+ { "n": "持续更新", "v": "0"}
+ ] },
+
+ {"key": "tid", "name": "AI6", "value": [
+ { "n": "全部", "v": "AI合集" },
+ { "n": "2026", "v": "AI合集2026&duration=4&order=pubdate" },
+ { "n": "2025", "v": "AI合集2025&duration=4&order=pubdate" },
+ { "n": "2024", "v": "AI合集2024&duration=4&order=pubdate" },
+ { "n": "2023", "v": "AI合集2023&duration=4&order=pubdate" },
+ 
+ { "n": "持续更新", "v": "0"}
+
+]
+}
+],
+
+//End
+"AI": [
+ { "key": "tid", "name": "分类", "value": [
+ { "n": "全部", "v": "AI" },
+ { "n": "AI", "v": "AI" },
+
+ { "n": "持续更新", "v": "0"
+ }
+ ] },
+ { "key": "duration", "name": "时长", "value": [
+ { "n": "全部", "v": "0" },
+ { "n": "60分钟以上", "v": "4" },
+ { "n": "30~60分钟", "v": "3" },
+ { "n": "10~30分钟", "v": "2" },
+ { "n": "10分钟以下", "v": "1"
+ }
+ ]
+ }
+ ]
+ }
+}
