@@ -18,8 +18,11 @@
 {"name":"🐯自定nitan","url":"https://nitan.ggff.net/config.json"},
 {"name":"🐯自定R18","url":"https://github.com/scovis/TVBox/raw/refs/heads/main/R18.json"},
 {"name":"🐯自定py","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/refs/heads/main/py.json"},
+{"name":"🍎小脑斧影见", "url":"https://6492.kstore.space/xnf/xnf.json"}, 
 
 //Ext
+{"name":"🍎小脑斧线路", "url":"http://cnmb.cc.cd/jk/xnf.json"}, 
+{"name":"🍎T4线路", "url":"https://catbox.n13.club/jk/jsm.json"}, 
 {"name":"🍎PG线路", "url":"http://williamc.tplinkdns.com/iptv/ext/pg/api.json"}, 
 {"name":"🍎老刘线路", "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
 {"name":"🍎天微VIP线", "url":"http://williamc.tplinkdns.com/iptv/ext/天微VIP线/api.json"}, 
@@ -29,6 +32,7 @@
 {"name":"🍎肥猫线路", "url":"http://williamc.tplinkdns.com/iptv/ext/肥猫线路/api.json"}, 
 {"name":"🍎讴歌线路", "url":"http://williamc.tplinkdns.com/iptv/ext/讴歌线路/api.json"}, 
 {"name":"🍎饭太硬线", "url":"http://williamc.tplinkdns.com/iptv/ext/饭太硬线/api.json"}, 
+{"name":"🍎南风线路XC", "url":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"}, 
 {"name":"🍎南风线路", "url":"http://williamc.tplinkdns.com/iptv/ext/南风线路/api.json"}, 
 {"name":"🍎摸鱼moyu", "url":"http://williamc.tplinkdns.com/iptv/ext/moyu/api.json"}, 
 {"name":"🍎D佬线路", "url":"http://williamc.tplinkdns.com/iptv/ext/D佬线路/api.json"}, 
