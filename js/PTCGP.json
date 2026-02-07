@@ -19,8 +19,7 @@
     "作者":"荷城茶秀",
     "站名":"PTCGP", 
     "主页url":"https://www.pokemon-zone.com",
-    //"请求头":"手机", PHPSESSID=n5k8h219247h61hc2o1h902grj; b-user-id=c08a5c23-7c40-7bb3-d292-fd1b20335ee6; 
-	"请求头":"cookie$PHPSESSID=n5k8h219247h61hc2o1h902grj;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0#Referer$https://www.pokemon-zone.com;#",
+	"请求头":"cookie$_ga=GA1.1.626800485.1737462716; usprivacy=1YNY; _lc2_fpi=0a591b2b7b54--01jj4dj8tzsznzxm9w7rq53mn9; _lc2_fpi_meta=%7B%22w%22%3A1737462719327%7D; _cc_id=83972dc5f4e0f68d72c1b33e9b5d8d80; _scor_uid=ab09aa2f091f4a81bc87b7f6e280c59d; _li_dcdm_c=.pokemon-zone.com; _lr_env_src_ats=false; cf_clearance=V7jcyDcLkrjLZNgmRIWXy0Sbm8x7DNNSQ16ocuR8ikM-1757320356-1.2.1.1-jwnGCZf.7kClhZ.OucCtrUmZbMeETTCC.pQUsTcQsRp3eK.3C4vx9M.emIHxYq0aAuriFCPSyQ4hiDR5.foDT8KrPhNyJVAjzeD.QT.3ZGudAoX_owWddrHyAatEClcVaUp.si0mt8aHCd2K.HETHn1V4ZOQSMx91XOGjvfl4k9o1jN0EsxOPgukt1H4YRr.0Qb7BVtoo0_u.RdL4LD592LQ_.aCZXzydbeVIg0JUA4; _lr_retry_request=true; _ga_H5C2DVMJ3S=GS2.1.s1757320355$o33$g1$t1757320373$j42$l0$h0; ccuid=c88a1568-c0fc-458c-9216-ea317944b3a1#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0#Referer$https://www.pokemon-zone.com;#",
     "强制解析":"0",
     "图片代理":"0",
 	
@@ -32,11 +31,13 @@
     "图片":"src=\"&&\"",
     "链接":"href=\"&&\"",
 	
+	
     "主演":"❤️HP🌿+<span class=\"fs-1 lh-1*>&&</span>",
     "导演":"🎯 「 +<div class=\"attack-summary-row__cost\">&&<div class=\"attack-summary-row__sep\">[替换:<span class=\"energy-icon energy-icon--type-*></span>>>🔶#</div>>> #]+ 」 +<div class=\"attack-summary-row__name\">&&</div>+💥+<div class=\"attack-summary-row__damage\">&&</div>",
     "简介":"🌸+<div class=\"attack-summary-row__footer\">&&</div>[替换:<span class=\"energy-text energy-text--type->> #\"></span>>> # >>.#]+🌸+Retreat&&<div class=\"card-detail__aside\">[替换: >>_#__>> #Pokémon:>>_💫Pokémon:#Evolves_into:>>_👉Evolves into:#Illustrated_by>>🎨#]+🌸",//+<div class=\"d-flex gap-3 text-center fw-bold\">&&<div class=\"d-grid gap-3 mt-3\">
     "影片类型":"🌟+<div class=\"fw-bold\">&&<div class=\"d-flex",
     "影片状态":"🌿",
+	"影片语言":"语言",
     "影片年代":"2025",
     "影片地区":"<span class=\"energy-icon energy-icon--type-&&\"></span>[替换:grass>>☘️Grass#water>>💧Water#fire>>🔥Fire#darkness>>☯Darkness#fighting>>💥Figthing#lightning>>⚡Lightning#psychic>>⚛️Psychic#metal>>🔋Metal#colorless>>✪Colorless#]", //🔴🟠🟡🟢🔵🟣⚪⚫
 	
@@ -68,9 +69,9 @@
             //https://www.pokemon-zone.com/cards/?pack_keys=AN003_0010_00_000
 //    "分类url":"https://www.pokemon-zone.com/cards/?sort_dir=desc&pack_keys={cateId}&types={class}&rarities={area}&evolution_stage={lang}&sort={by}&series={year}",//&sort_dir={catePg}
 //    "分类":"Dialga$AN003_0010_00_000#Palkia$AN003_0020_00_000#Mewtwo$AN001_0010_00_000#Charizard$AN001_0020_00_000#Pikachu$AN001_0030_00_000#Mew$AN002_0010_00_000#ALL$AN003_0010_00_000,AN003_0020_00_000,AN001_0010_00_000,AN001_0020_00_000,AN001_0030_00_000,AN002_0010_00_000#",
-    "分类url":"https://www.pokemon-zone.com/cards/?sort_dir=desc&series={cateId}&types={class}&rarities={area}&evolution_stage={lang}&sort={by}&pack_keys={year}",//&sort_dir={catePg}
-    "分类":"Secluded$A4a#Wisdom$A4#Eevee$A3b#Extradimensional Crisis$A3a#Celestial Guardians$A3#Shining Revelry$A2b#Triumphant$A2a#Space-Time$A2#Mythical$A1a#Genetic Apex$A1#PROMO-A$PROMO-A#",
-
+			//https://www.pokemon-zone.com/cards/?series=B&expansions=B1&pack_keys=BN001_0030_00_000
+    "分类url":"https://www.pokemon-zone.com/cards/?sort_dir=desc&expansions={cateId}&types={class}&rarities={area}&evolution_stage={lang}&sort={by}&pack_keys={year}",//&sort_dir={catePg}
+    "分类":"Mega$B1#Deluxe$A4b#Secluded$A4a#Wisdom$A4#Eevee$A3b#Extradimensional Crisis$A3a#Celestial Guardians$A3#Shining Revelry$A2b#Triumphant$A2a#Space-Time$A2#Mythical$A1a#Genetic Apex$A1#PROMO-A$PROMO-A#",
 
 // https://www.pokemon-zone.com/cards/
 // ?pack_keys=
@@ -84,11 +85,182 @@
 
     
   "筛选":{
-//Secluded Springs (A4a)
-  "A4a":[
-// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b,A4
+//Mega Rising (B1)
+  "B1":[
+// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b,A4,A4a,A4b
     {"key":"cateId","name":"剧情","value":[ 
     {"n":"Series","v":"##"},
+    {"n":"Mega","v":"B1"},
+    {"n":"Deluxe Pack","v":"A4b"},
+    {"n":"Secluded Springs","v":"A4a"},
+    {"n":"Wisdom of Sea and Sky","v":"A4"},
+    {"n":"Eevee Grove","v":"A3b"},
+    {"n":"Extradimensional Crisis","v":"A3a"},
+    {"n":"Celestial Guardians","v":"A3"},
+    {"n":"Shining Revelry","v":"A2b"},
+    {"n":"Triumphant","v":"A2a"},
+    {"n":"Space-Time","v":"A2"},
+    {"n":"Mythical","v":"A1a"},
+	{"n":"Genetic Apex","v":"A1"},
+    {"n":"PROMO-A","v":"PROMO-A"},
+    {"n":"其它","v":""}
+    ]
+    },
+
+    {"key":"year","name":"年份","value":[
+    {"n":"Packs","v":""},
+    {"n":"Celestial","v":"AN006_0010_00_000"},
+    //{"n":"dialga","v":"AN003_0010_00_000"},
+    //{"n":"palkia","v":"AN003_0020_00_000"},
+    //{"n":"charizard","v":"AN001_0020_00_000"},
+    //{"n":"mewtwo","v":"AN001_0010_00_000"},
+    //{"n":"pikachu","v":"AN001_0030_00_000"},
+    //{"n":"mew","v":"AN002_0010_00_000"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+    {"key":"class","name":"类型","value":[
+    {"n":"Type","v":""},
+    {"n":"Water","v":"Water"},
+    {"n":"Fire","v":"Fire"},
+    {"n":"Grass","v":"Grass"},
+    {"n":"Lightning","v":"Lightning"},
+    {"n":"Psychic","v":"Psychic"},
+    {"n":"Fighting","v":"Fighting"},
+    {"n":"Darkness","v":"Darkness"},
+    {"n":"Fairy","v":"Fairy"},
+    {"n":"Dragon","v":"Dragon"},
+    {"n":"Colorless","v":"Colorless"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+    {"key":"area","name":"地区","value":[
+    {"n":"Rarity","v":""},
+    {"n":"♦️","v":"C"},
+    {"n":"♦️♦️","v":"U"},
+    {"n":"♦️♦️♦️","v":"R"},
+    {"n":"♦️♦️♦️♦️","v":"RR"},
+    {"n":"⭐","v":"AR"},
+    {"n":"⭐⭐","v":"SR"},
+    {"n":"⭐⭐⭐","v":"IM"},
+    {"n":"👑","v":"UR"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &evolution_stage=Basic,One,Two
+	{"key": "lang","name": "语言","value": [
+	{ "n": "Stage", "v": "" },
+	{ "n": "Basic", "v": "One" },
+	{ "n": "One", "v": "英语" },
+	{ "n": "Two", "v": "Two" },
+	{ "n": "其它", "v": "" }
+	]
+	},
+
+// &sort=pokedex_number|name|hp
+    {
+    "key":"by","name":"排序","value":[
+    {"n":"Sort","v":""},
+    {"n":"pokedex_number","v":"pokedex_number"},
+    {"n":"name","v":"name"},
+    {"n":"hp","v":"hp"}
+    ]
+    }
+    ],
+//Deluxe Pack(A4b)
+  "A4b":[
+// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b,A4,A4a,A4b
+    {"key":"cateId","name":"剧情","value":[ 
+    {"n":"Series","v":"##"},
+    {"n":"Mega","v":"B1"},
+    {"n":"Deluxe Pack","v":"A4b"},
+    {"n":"Secluded Springs","v":"A4a"},
+    {"n":"Wisdom of Sea and Sky","v":"A4"},
+    {"n":"Eevee Grove","v":"A3b"},
+    {"n":"Extradimensional Crisis","v":"A3a"},
+    {"n":"Celestial Guardians","v":"A3"},
+    {"n":"Shining Revelry","v":"A2b"},
+    {"n":"Triumphant","v":"A2a"},
+    {"n":"Space-Time","v":"A2"},
+    {"n":"Mythical","v":"A1a"},
+	{"n":"Genetic Apex","v":"A1"},
+    {"n":"PROMO-A","v":"PROMO-A"},
+    {"n":"其它","v":""}
+    ]
+    },
+
+    {"key":"year","name":"年份","value":[
+    {"n":"Packs","v":""},
+    {"n":"Celestial","v":"AN006_0010_00_000"},
+    //{"n":"dialga","v":"AN003_0010_00_000"},
+    //{"n":"palkia","v":"AN003_0020_00_000"},
+    //{"n":"charizard","v":"AN001_0020_00_000"},
+    //{"n":"mewtwo","v":"AN001_0010_00_000"},
+    //{"n":"pikachu","v":"AN001_0030_00_000"},
+    //{"n":"mew","v":"AN002_0010_00_000"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+    {"key":"class","name":"类型","value":[
+    {"n":"Type","v":""},
+    {"n":"Water","v":"Water"},
+    {"n":"Fire","v":"Fire"},
+    {"n":"Grass","v":"Grass"},
+    {"n":"Lightning","v":"Lightning"},
+    {"n":"Psychic","v":"Psychic"},
+    {"n":"Fighting","v":"Fighting"},
+    {"n":"Darkness","v":"Darkness"},
+    {"n":"Fairy","v":"Fairy"},
+    {"n":"Dragon","v":"Dragon"},
+    {"n":"Colorless","v":"Colorless"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+    {"key":"area","name":"地区","value":[
+    {"n":"Rarity","v":""},
+    {"n":"♦️","v":"C"},
+    {"n":"♦️♦️","v":"U"},
+    {"n":"♦️♦️♦️","v":"R"},
+    {"n":"♦️♦️♦️♦️","v":"RR"},
+    {"n":"⭐","v":"AR"},
+    {"n":"⭐⭐","v":"SR"},
+    {"n":"⭐⭐⭐","v":"IM"},
+    {"n":"👑","v":"UR"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &evolution_stage=Basic,One,Two
+	{"key": "lang","name": "语言","value": [
+	{ "n": "Stage", "v": "" },
+	{ "n": "Basic", "v": "One" },
+	{ "n": "One", "v": "英语" },
+	{ "n": "Two", "v": "Two" },
+	{ "n": "其它", "v": "" }
+	]
+	},
+
+// &sort=pokedex_number|name|hp
+    {
+    "key":"by","name":"排序","value":[
+    {"n":"Sort","v":""},
+    {"n":"pokedex_number","v":"pokedex_number"},
+    {"n":"name","v":"name"},
+    {"n":"hp","v":"hp"}
+    ]
+    }
+    ],
+	
+//Secluded Springs (A4a)
+  "A4a":[
+// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b,A4,A4a,A4b
+    {"key":"cateId","name":"剧情","value":[ 
+    {"n":"Series","v":"##"},
+    {"n":"Mega","v":"B1"},
+    {"n":"Deluxe Pack","v":"A4b"},
     {"n":"Secluded Springs","v":"A4a"},
     {"n":"Wisdom of Sea and Sky","v":"A4"},
     {"n":"Eevee Grove","v":"A3b"},

@@ -1,37 +1,35 @@
-//猫眼视频
-//https://www.maoyanshipin.com/index.php/vod/show/id/13.html
-//https://api.maoyanapi.top/api.php/provide/vod/
-
+//红狐狸影院 
+//https://honghuli.com/show/13-----------2025.html
+//https://www.xiuhuaw.com/show/13-----------2025.html
+//非凡
 {
     "作者":"荷城茶秀",
-    "站名":"猫眼视频", //模板: 'mxpro'
-    "主页url":"https://www.maoyanshipin.com",
-	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0#Referer$;",
+    "站名":"红狐狸影院", //模板: 'mxpro'
+    "主页url":"https://honghuli.com",
+	"请求头":"cookie$Hm_lvt_f4657768b84ca1c1d3706a7013297003=1757769598; HMACCOUNT=41D11ABE7F384889; Hm_lpvt_f4657768b84ca1c1d3706a7013297003=1757769673;#Dnt$1#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0#Referer$;",
     "强制解析":"0",
     "图片代理":"0",
 	
 //分类页面 
-//<div class="movie-ul">
-//<div class="myui-vodbox-content">
-    "二次截取":"<div class=\"movie-ul\">&&<div class=\"pagination\">", 
-    "数组":"<div class=\"myui-vodbox-content\">&&<div class=\"card-info\">",//[替换:更新至>> #更新第>> #更至>> #&nbsp;>> #<span class=\"slash\">/</span>>> #]",
+    "二次截取":"<ul class=\"new-up-list*>&&</ul>", 
+    "数组":"<li class=\"item\">&&</li>",
     //"标题":"alt=\"&&\"",
-    "标题":"alt=\"&&\"+(+<div class=\"tag text-overflow*>&&</div>[替换:更新第>> #更新至>> #更至>> #已完结>>完结#]+)",
-    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"+(+<span class=\"state\">&&</span>[替换:更新至第>> #更新至>> #更至>> #已完结>>完结#]+)",
+    "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"<div class=\"tag text-overflow*>&&</div>[替换:更新第>> #更新至>> #更至>> #已完结>>完结#]+🌸+主演：&&</div>[替换:&nbsp;>><br>#<a class=\"tag*>>><br>#]",
+    "副标题":"🌸+<span class=\"state\">&&</span>[替换:更新至第>> #更新至>> #更至>> #已完结>>完结#]",
 	
-    "简介":"🌸+上映时间</div>&&简介:</div>+🌸+简介:</div>&&</p></div>[替换:更新第>> #更新至>> #更至>> #]+🌸+语言</div>&&上映时间</div>",
-    "导演":"导演:</div>&&</div>[替换:&nbsp;>> #<span class=\"slash\">/</span>>><br>#]", //+⚡️+[替换:更新第>> #更新至>> #更至>> #]
-    "主演":"主演:</div>&&</div>[替换:&nbsp;>> #<span class=\"slash\">/</span>>><br>#]",
-	"影片类型":"<div class=\"tags text-overflow\">&&</div>[替换:剧情>>电视剧#&nbsp;>><br>#<span class=\"slash\">/</span>>><br>#]", 
-    //"影片状态":"状态：</span>&&</div>", 
-	"影片年代":"20+<div class=\"item-top\">20&&-", //	
-    "影片地区":"<div class=\"item-top\">20*(&&)",
+    "简介":"🌸+<div style=\"text-indent: 28px;margin-top: 10px;*>&&</div>", //[替换:更新至第>> #更新至>> #更至>> #]
+    "导演":"导演:</label>&&</span>[替换:&nbsp;>> #<span class=\"slash\">/</span>>><br>#]", //+⚡️+[替换:更新第>> #更新至>> #更至>> #]
+    "主演":"主演:</label>&&</span>[替换:&nbsp;>> #<span class=\"slash\">/</span>>><br>#]",
+	"影片类型":"类型：</label>&&</span>[替换:剧情>>电视剧#&nbsp;>><br>#<span class=\"slash\">/</span>>><br>#]", 
+    //"影片状态":"状态：</label>&&</span>", 
+	"影片年代":"年份：</label>&&</span>", //	
+    "影片地区":"地区：</label>&&</span>",
 
 	
 //搜索页面
-   "搜索url": "/index.php/vod/search.html?wd={wd}", //https://www.maoyanshipin.com/index.php/vod/search.html?wd=永夜星河
+   "搜索url": "/index.php/vod/search.html?wd={wd}", //https://honghuli.com/index.php/vod/search.html?wd=永夜星河
    "搜索数组二次截取":"<div class=\"module-items\"*>&&</main>",
    "搜索数组": "<div class=\"module-search-item\"*>&&立即播放",
    "搜索标题": "alt=\"&&\"[替换:立刻播放>> #]",
@@ -40,11 +38,9 @@
    "搜索链接": "href=\"&&\"",
 
 
-//如意m3u8>>#ruyizy>>#
-//"如意m3u8"><span>如意m3u8</span><small>21</small>
-//"ruyizy">ruyizy</span><small>21</small></a>
-    "线路数组":"<li class=\"swiper-slide player_name\">&&</li>[不包含:夸克][替换:</span><small>>>️⚡️#猫眼播放器>>猫眼#]",
-    "线路标题":"🌸+&&[排序:如意>猫眼>天堂>非凡>快看>量子>华为吧>索尼>快云>天空>优质>OK>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+//线路数组
+    "线路数组":"<li class=\"swiper-slide*>&&</li>[不包含:夸克][替换:</span><small>>>️⚡️#高清高速>>非凡#]",
+    "线路标题":"🌸+&&[排序:如意>猫眼>非凡>快看>量子>华为吧>索尼>快云>天空>优质>OK>天堂>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 
     //"播放二次截取": "",//all playlist
 	//"播放数组":"<div class=\"module-blocklist*>&&</div>",//one playlist
@@ -53,14 +49,14 @@
 	//"播放链接":"href=\"&&\"", //one episod
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    //"分类url":"https://www.maoyanshipin.com/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+    //"分类url":"https://honghuli.com/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
     //"分类":"国产剧$guochanju#日韩剧$rihanju#动漫$dongman#电视剧$juji#电影$dianying#综艺$zongyi#纪录片$jilupian",
-    //"分类url":"https://www.maoyanshipin.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    //"分类url":"https://honghuli.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 	//"分类":"国产剧$13#韩剧$14#电视剧$13#电影$1#动漫$4#综艺$3#",	
 	
-             //https://www.maoyanshipin.com/index.php/vod/show/id/13.html
-	"分类url":"https://www.maoyanshipin.com/index.php/vod/show/id/{cateId}/area/{area}/by/time/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-	"分类":"国产剧$13#韩剧$15#国产动漫$38#电影$6#电视剧$13#综艺$34#动漫$38#伦理片$5#短剧$47#",
+             //https://honghuli.com/show/13-----------2025.html
+	"分类url":"https://honghuli.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+	"分类":"国产剧$13#韩剧$34#国产动漫$27#电影$1#电视剧$2#综艺$3#动漫$4#",
 
 
 	"筛选":{
@@ -177,19 +173,21 @@
     }
     ],
 
-//国产剧13 香港剧 韩国剧 欧美剧 台湾剧 日本剧 海外剧 泰国剧
+//短剧35 国产剧13香港剧14台湾剧15欧美剧16日本剧33韩国剧34海外剧20
+
   "2":[
 	    {"key":"cateId","name":"类型","value":[
         {"n":"剧集","v":""},
         {"n":"国产剧","v":"13"},
-        {"n":"韩国剧","v":"15"},
-        {"n":"日本剧","v":"31"},
+        {"n":"韩国剧","v":"34"},
+        {"n":"日本剧","v":"33"},
         {"n":"港台剧","v":"14"},
         {"n":"欧美剧","v":"16"},
-        {"n":"台湾剧","v":"30"},
-        {"n":"泰国剧","v":"33"},
-        {"n":"新马剧","v":"32"},
-        {"n":"海外剧","v":"32"}
+        {"n":"台湾剧","v":"15"},
+        {"n":"泰国剧","v":""},
+        {"n":"新马剧","v":""},
+        {"n":"短剧","v":"35"},
+        {"n":"海外剧","v":"20"}
 	]
 	},
 
@@ -287,14 +285,15 @@
 	    {"key":"cateId","name":"类型","value":[
         {"n":"剧集","v":""},
         {"n":"国产剧","v":"13"},
-        {"n":"韩国剧","v":"15"},
-        {"n":"日本剧","v":"31"},
+        {"n":"韩国剧","v":"34"},
+        {"n":"日本剧","v":"33"},
         {"n":"港台剧","v":"14"},
         {"n":"欧美剧","v":"16"},
-        {"n":"台湾剧","v":"30"},
-        {"n":"泰国剧","v":"33"},
-        {"n":"新马剧","v":"32"},
-        {"n":"海外剧","v":"32"}
+        {"n":"台湾剧","v":"15"},
+        {"n":"泰国剧","v":""},
+        {"n":"新马剧","v":""},
+        {"n":"短剧","v":"35"},
+        {"n":"海外剧","v":"20"}
 	]
 	},
 
@@ -387,18 +386,19 @@
     }
     ],
 	
-  "15":[
+  "34":[
 	    {"key":"cateId","name":"类型","value":[
         {"n":"剧集","v":""},
         {"n":"国产剧","v":"13"},
-        {"n":"韩国剧","v":"15"},
-        {"n":"日本剧","v":"31"},
+        {"n":"韩国剧","v":"34"},
+        {"n":"日本剧","v":"33"},
         {"n":"港台剧","v":"14"},
         {"n":"欧美剧","v":"16"},
-        {"n":"台湾剧","v":"30"},
-        {"n":"泰国剧","v":"33"},
-        {"n":"新马剧","v":"32"},
-        {"n":"海外剧","v":"32"}
+        {"n":"台湾剧","v":"15"},
+        {"n":"泰国剧","v":""},
+        {"n":"新马剧","v":""},
+        {"n":"短剧","v":"35"},
+        {"n":"海外剧","v":"20"}
 	]
 	},
 	
@@ -490,17 +490,17 @@
     }
     ],	
 
-//里番动漫 国产动漫38 欧美动漫 日韩动漫
+//欧美动漫34 国内动漫27 日本动漫28 其它动漫29
   "4":[
         {"key":"cateId","name":"类型","value":[
         {"n":"动漫","v":""},
-        {"n":"国产动漫","v":"38"},
-        {"n":"日本动漫","v":"40"},
-        {"n":"韩国动漫","v":"40"},
-        {"n":"欧美动漫","v":"55"},
+        {"n":"国产动漫","v":"27"},
+        {"n":"日本动漫","v":"28"},
+        {"n":"韩国动漫","v":"28"},
+        {"n":"欧美动漫","v":"34"},
         {"n":"新马泰动漫","v":""},
         {"n":"港台动漫","v":""},
-        {"n":"其他动漫","v":""}
+        {"n":"其他动漫","v":"29"}
 	]
 	},
 
@@ -571,16 +571,16 @@
     }
     ],
 	
-  "38":[
+  "27":[
         {"key":"cateId","name":"类型","value":[
         {"n":"动漫","v":""},
-        {"n":"国产动漫","v":"38"},
-        {"n":"日本动漫","v":"40"},
-        {"n":"韩国动漫","v":"40"},
-        {"n":"欧美动漫","v":"55"},
+        {"n":"国产动漫","v":"27"},
+        {"n":"日本动漫","v":"28"},
+        {"n":"韩国动漫","v":"28"},
+        {"n":"欧美动漫","v":"34"},
         {"n":"新马泰动漫","v":""},
         {"n":"港台动漫","v":""},
-        {"n":"其他动漫","v":""}
+        {"n":"其他动漫","v":"29"}
 	]
 	},
 	
@@ -669,15 +669,15 @@
     }
     ],	
 	
-
-  "34":[
+//国内综艺23 日韩综艺24 港台综艺26 欧美综艺25
+  "3":[
         {"key":"cateId","name":"类型","value":[
         {"n":"综艺","v":""},
-        {"n":"大陆综艺","v":"34"},
-        {"n":"港台综艺","v":"35"},
-        {"n":"韩国综艺","v":"36"},
-        {"n":"日本综艺","v":"36"},
-        {"n":"欧美综艺","v":"37"},
+        {"n":"大陆综艺","v":"23"},
+        {"n":"港台综艺","v":"26"},
+        {"n":"韩国综艺","v":"24"},
+        {"n":"日本综艺","v":"24"},
+        {"n":"欧美综艺","v":"25"},
         {"n":"新马泰综艺","v":""},
         {"n":"其他综艺","v":""}
 	]
@@ -922,14 +922,14 @@
     }
     ],	
 	
-  "3":[
+  "23":[
         {"key":"cateId","name":"类型","value":[
         {"n":"综艺","v":""},
-        {"n":"大陆综艺","v":"34"},
-        {"n":"港台综艺","v":"35"},
-        {"n":"韩国综艺","v":"36"},
-        {"n":"日本综艺","v":"36"},
-        {"n":"欧美综艺","v":"37"},
+        {"n":"大陆综艺","v":"23"},
+        {"n":"港台综艺","v":"26"},
+        {"n":"韩国综艺","v":"24"},
+        {"n":"日本综艺","v":"24"},
+        {"n":"欧美综艺","v":"25"},
         {"n":"新马泰综艺","v":""},
         {"n":"其他综艺","v":""}
     ]

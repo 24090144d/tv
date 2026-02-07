@@ -114,39 +114,82 @@ https://apidanaizi.com/api.php/provide/vod/?ac=list
 无广告解析接口：https://apidanaizi.com/
 "视频一区","视频二区","视频三区","视频四区","精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
 
-{"type_id":1,"type_pid":0,"type_name":"电视剧"},
+https://raw.liucn.cc/box/libs/js/drpy2.min.js
+https://raw.liucn.cc/box/libs/js/cheerio.min.js
+https://raw.liucn.cc/box/libs/js/crypto-js.js
+https://raw.liucn.cc/box/libs/js/模板.js
+https://raw.liucn.cc/box/libs/js/gbk.js
+https://raw.liucn.cc/box/libs/js/uri.min.js
 
 
-{"type_id":2,"type_pid":0,"type_name":"电影"},
+"电视剧","动漫","电影","综艺","少儿","纪录片","短剧"
+
+~[排序:如意>天堂>天涯>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>OK>360>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>黑木耳>蓝光>]",
+
+高清線路 ᴴᴰ>>天堂#4K線路 ᴴᴰ>>4K#極清線路 ᴴᴰ>>天堂#騰訊線路 ᴴᴰ>>腾讯#奇異線路 ᴴᴰ>>奇艺#藍光線路 ᴴᴰ>>藍光#超清線路 ᴴᴰ>>NBY#優質雲>>优质#新浪雲>>新浪#鈦快雲>>#魔速雲>>魔都#暴風雲>>暴风#清晰雲>>魔爪#量子雲>>量子#極速雲>>极速#無盡雲>>无尽#
+
+【1~45套AI大模型系列】
+链接:https://pan.baidu.com/s/1jVbL9bQwmg9tXn4Rp9rT4A &pwd=8dy9
+提取码:8dy9
+
+【46-59套AI大模型系列】
+链接: https://pan.baidu.com/s/13qZE4104osEdyTabeXrinw&pwd=kfi8
+提取码: kfi8 
+
+【60-78套AI大模型系列】
+链接:https://pan.baidu.com/s/1ucF5VWq8LQIcnLUwUKXbUQ&pwd=5d2b
+提取码:5d2b
+【79-92套AI大模型系列】正在更新中，更新好后会第一时间发给您。
 
 
-// {"type_id":20,"type_pid":1,"type_name":"内地剧"},
-// {"type_id":3,"type_pid":1,"type_name":"欧美剧"},
-// {"type_id":4,"type_pid":1,"type_name":"香港剧"},
-// {"type_id":5,"type_pid":1,"type_name":"韩剧"},
-// {"type_id":6,"type_pid":1,"type_name":"日剧"},
-// {"type_id":7,"type_pid":1,"type_name":"马泰剧"},
-// {"type_id":28,"type_pid":1,"type_name":"台湾剧"},
+链接: https://pan.baidu.com/s/1EAQ3EpKwBBIFkHzDzKFjTw?pwd=ksxi 提取码: ksxi 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v10的分享
 
-// {"type_id":8,"type_pid":0,"type_name":"伦理片"},
-// {"type_id":9,"type_pid":2,"type_name":"动作片"},
-// {"type_id":10,"type_pid":2,"type_name":"爱情片"},
-// {"type_id":11,"type_pid":2,"type_name":"喜剧片"},
-// {"type_id":12,"type_pid":2,"type_name":"科幻片"},
-// {"type_id":13,"type_pid":2,"type_name":"恐怖片"},
-// {"type_id":14,"type_pid":2,"type_name":"剧情片"},
-// {"type_id":15,"type_pid":2,"type_name":"战争片"},
-// {"type_id":16,"type_pid":2,"type_name":"记录片"},
-// {"type_id":23,"type_pid":2,"type_name":"动画片"},
 
-// {"type_id":17,"type_pid":0,"type_name":"动漫"},
-// {"type_id":24,"type_pid":17,"type_name":"中国动漫"},
-// {"type_id":25,"type_pid":17,"type_name":"日本动漫"},
-// {"type_id":26,"type_pid":17,"type_name":"欧美动漫"},
+五☆好评+三张产品图片+15字以上评论+关注店铺，截图发给客服，即可获得本店有销量和你的订单同等价位的课程 送你哦6:00 AM
 
-// {"type_id":27,"type_pid":0,"type_name":"综艺"},
-// {"type_id":29,"type_pid":0,"type_name":"体育赛事"},
-// {"type_id":30,"type_pid":0,"type_name":"短剧"}
+92套AI大模型101套
+链接: https://pan.baidu.com/s/1EAQ3EpKwBBIFkHzDzKFjTw?pwd=ksxi 提取码: ksxi 
+
+GPUStack pwd: *B9VCQghi33g
+
+
+###
+APP JSON接口
+视频列表地址
+https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list
+视频详情地址
+https://www.heiliaozyapi.com/api.php/provide/vod/?ac=detail
+接口说明
+api接口仅供提供数据，可以直接在苹果CMS后台联盟采集中加入-并提供给他人采集。
+
+资源分配唯一标识ID，用来区别绑定分类，这个ID一般由苹果CMS官方提供，不可随意修改设置，否则造成入库分类错乱。
+
+列表接收参数
+ac=list - 列表接口
+t=类别ID - 分类ID
+pg=页码 - 页码
+wd=搜索关键字 - 搜索关键词
+h=几小时内的数据 - 时间范围
+示例
+api.php?ac=list&t=1&pg=5
+分类ID为1的列表数据第5页
+
+内容接收参数
+c=videolist - 采集数据
+ids=数据ID - 多个ID逗号分割
+t=类型ID - 类型ID
+pg=页码 - 页码
+h=几小时内的数据 - 时间范围
+示例
+api.php?ac=videolist&ids=123,567
+获取ID为123和567的数据信息
+
+api.php?ac=videolist&h=24
+获取24小时内更新数据信息
+
+
+
 
 
 

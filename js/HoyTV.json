@@ -1,0 +1,27 @@
+[
+	{
+        "name": "⚡健康關注組",
+        "url": "http://williamc.tplinkdns.com/iptv/js/HoyTV/健康關注組.txt&&&http://williamc.tplinkdns.com/images/Hoy-TV.png"
+    },
+	
+	{
+        "name": "⚡熱播節目",
+        "url": "http://williamc.tplinkdns.com/iptv/js/HoyTV/熱播節目.txt&&&http://williamc.tplinkdns.com/images/Hoy-TV.png"
+    },
+
+	{
+        "name": "⚡劇集",
+        "url": "http://williamc.tplinkdns.com/iptv/js/HoyTV/劇集.txt&&&http://williamc.tplinkdns.com/images/Hoy-TV.png"
+    },
+
+	{
+        "name": "⚡飲食",
+        "url": "http://williamc.tplinkdns.com/iptv/js/HoyTV/飲食.txt&&&http://williamc.tplinkdns.com/images/Hoy-TV.png"
+    },
+
+
+    {
+        "name": "⚡Live",
+        "url": "http://williamc.tplinkdns.com/iptv/live.m3u8&&&http://williamc.tplinkdns.com/images/电视剧.png"
+    }
+]

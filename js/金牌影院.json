@@ -1,10 +1,17 @@
+//金牌影视
+//https://hnytxj.com/vod/show/id/2/type/14/year/2025
+//https://www.hkybqufgh.com/vod/show/id/2/type/14/sortType/1/sortOrder/0
+//https://www.sdzhgt.com/vod/show/id/2/type/14/sortType/1/sortOrder/0/class/古装/area/中国大陆/year/2025/lang/普通话
+//ppvod
 
-/**
 //金牌影院
 //https://www.sdzhgt.com/vod/show/id/2/type/14
 //ppvod
 
-**/
+//金牌影视
+//https://hnytxj.com/vod/show/id/2/type/14/year/2025
+//ppvod
+
 
 {
     "作者":"荷城茶秀",
@@ -15,11 +22,22 @@
     "图片代理":"0",
 	
 //分类页面
-    "二次截取":"<div class=\"movie-ul*>&&<div class=\"pagination",
+	//"二次截取":"\"list\"*[&&]",
+    //"数组":"{&&}",
+    //"图片":"vodPic\"*\"&&\"",
+    //"标题":"vodName\"*\"&&\"",
+    //"标题":"vodName\"*\"&&\"+🌸+vodId\":&&,",
+	//     https://www.sdzhgt.com/detail/139191
+    //"链接":"https://www.sdzhgt.com/detail/+\"vod_id\":&&,", 
+    //"副标题":"vodRemarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vodActor\":\"&&\"", 
+    //"副标题":"vodRemarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vodDoubanScore\":\"&&\"+🌸+\"vodActor\":\"&&\"", 
+	
+	"二次截取":"<div class=\"movie-ul*>&&<div class=\"pagination",
     "数组":"<a&&</a>",
     "标题":"<div class=\"title\">&&</div>",
-    "副标题":"🌸+<div class=\"bottom\"><div>&&</div>[替换:更新至第>> #更新至>> #每集>> #]",
-    "图片":"src=\"&&\"[替换:%3A>>:#%2F>>/#]", //https://www.sdzhgt.com/_next/image?url=https%3A%2F%2Fobs.gduamoe.com%2Fupload%2Fsite_logo%2F20240917-1%2F46e55d3840b81e3e6458dd12c16b7830.png&amp;w=3840&amp;q=75
+    "副标题":"<div class=\"bottom\"><div>&&</div>[替换:更新至第>> #更新至>> #每集>> #]+🌸+主演：<!-- -->&&</div>",
+    //"图片":"src=\"&&\"",//[替换:%3A>>:#%2F>>/#] 
+    "图片":"https://obs.yinruifei.com/upload/site_logo/20250210-1/db0c925a774833523a6f6b40e3b40f70.png", 
     "链接":"href=\"&&\"",
 	
     "简介":"🌸+<div class=\"wrapper_more_text*>&&</div>",
@@ -59,8 +77,8 @@
 	//"分类url":"https://www.sdzhgt.com/type/{cateId}/year/{year}.html",
 	//"分类":"国产剧$guochanju#日韩剧$rihanju#动漫$dongman#电视剧$juji#电影$dianying#综艺$zongyi#纪录片$jilupian",
           
-		    //https://www.sdzhgt.com/vod/show/id/2/type/14
-    "分类url":"https://www.sdzhgt.com/vod/show/id/{cateId}/type/{class}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html",
+		    //https://www.sdzhgt.com/vod/show/id/2/type/14/sortType/1/sortOrder/0/class/古装/area/中国大陆/year/2025/lang/普通话
+    "分类url":"https://www.sdzhgt.com/vod/show/id/{cateId}/type/{class}/area/{area}/sortType/{by}/sortOrder/0/lang/{lang}/page/{catePg}/year/{year}",
     "分类":"电视剧$2#动漫$4#电影$1#综艺$3#",
 	
     

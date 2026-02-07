@@ -11,6 +11,11 @@ Primary DNS:
 Secondary DNS:
 203.185.0.36
 
+杂学王
+
+//http://williamc.tplinkdns.com/iptv/js/ -> https://raw.githubusercontent.com/s14685/tv/main/js/
+//https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar -> https://raw.liucn.cc/box/libs/jar/HCCX.jar
+
 //一二三四五 🌿🍃✨️🌅🎯🌺⚡️🌈🌈🎭🧩 0：系統；1：IJK；2：EXO
 //http://williamc.tplinkdns.com/iptv/fav.json
 //http://williamc.ddns.net/iptv/fav.json
@@ -118,8 +123,9 @@ https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
 卧龙 WL云 https://cdn.wlcdn88.com:777/40d84280/index.m3u8
 极速 JS云 https://vv.jisuzyv.com/play/BeX3rZmd/index.m3u8
 索尼 SN云 https://v13.yuglf.com/202507/26/jFBbGz1uVj19/video/2000k_1080/hls/index.m3u8
+电影天堂（dydytt.net)
 
-~[排序:如意>天涯>黑木耳>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>OK>360>]",
+~    "线路标题":"🌸+&&[排序:如意>天堂>OK>天涯>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>豆瓣>360>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>黑木耳>蓝光]",
 
 
 9极速 https://vv.jisuzyv.com/play/mep46gre/index.m3u8
@@ -145,22 +151,130 @@ https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
 'ukm3u8': '优酷','ikm3u8': '爱坤','hnzym3u8': '红牛资源','hnm3u8': '红牛','68zy_m3u8': '68','kdm3u8': '酷点','bdxm3u8': '北斗星','qhm3u8': '奇虎',
 'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽 wj 丫丫 yy, 'rym3u8': "如意"
 */
+marco.choo@connect.polyu.hk
+24090144d@connect.polyu.hk
+s14685@kings.edu.hk
+leochoo@connect.hku.hk
+s1511106@ccsc.edu.hk
+
     {"n":"中国大陆","v":"中国大陆"},
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:如意>天涯>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>OK>360>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>黑木耳>蓝光>]",
+~[排序:如意>天堂>天涯>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>OK>360>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>黑木耳>蓝光>]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 <meta property="og:type" content="article">
 <div class="topic">《吞天記》.風青陽</div><br>
 <hr><div class="title">$1</div><hr>
 
-marco.choo@connect.polyu.hk
-24090144d@connect.polyu.hk
-s14685@kings.edu.hk
-leochoo@connect.hku.hk
-s1511106@ccsc.edu.hk
+//麦田影院 https://www.mtyy1.com/ https://www.mtyy9.com/
+//https://www.mtyy5.com/vodshow/2-中国大陆-time---------2025.html
+//YX源>>YX#NB源>>NB#YZ源>>优质#FF源>>非凡#LZ源>>量子#
+
+//山海资源
+//标准采集地址: https://zy.sh0o.cn/api.php/provide/vod
+//xml数据格式: https://zy.sh0o.cn/api.php/provide/vod/at/xml
+//json数据格式: https://zy.sh0o.cn/api.php/provide/vod/at/json
+
+//金蝉资源
+//苹果cms接口： https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list  
+//金蝉官解真一次解析： https://json.jinchanjiexi.net:1994  
+
+//爱看影视
+//https://aikan.my/index.php/vod/show/id/13.html
+//
+
+//爱电影 https://www.gs4x7nq4.com https://ivdy.com https://kuhh4jo.com/
+//"分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+//ppvod
+
+        "主页url": "https://www.gs4x7nq4.com/",
+        "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
+        "简介": "⚠️天微科技特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
+        "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
+        "影片类型": "tags\">&&director\">",
+        "影片状态": "bottom\">&&</div>",
+        "二次截取": "videoList\":\\[&&\\]",
+        "数组": "{&&}[不包含:伦理剧]",
+        "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+        "标题": "vodName\":\"&&\"",
+        "副标题": "vodRemarks\":\"&&\"",
+        "链接": "https://www.gs4x7nq4.com/detail/+vodId\":&&,",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "线路标题": "科技天微",
+        "播放数组": "listitem\">&&info\">",
+        "播放列表": "<a&&</a>",
+        "倒序": "否",
+        "搜索url": "https://www.gs4x7nq4.com/vod/search/{wd}",
+        "搜索副标题": "class=\"boottom\"*<div>&&</div",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+
+//修罗影视
+//https://v.xlys.ltd.ua/s/all?type=1&area=中国大陆
+        {
+            "key": "d'd",
+            "name": "修罗|弹幕",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": {
+                "数组": "card card-sm card-link&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "mb-0 card-title text-truncate\">&&<",
+                "副标题": "start-0 text-red-fg\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "剧情简介：&&\"",
+                "线路标题": "磁力+>&&<",
+                "播放数组": "download-list&&</tbody>",
+                "播放列表": "<tr&&</tr>",
+                "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
+                "跳转播放链接": "href=\"&&\"",
+                "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
+                "分类": "电影$0#电视剧$1"
+            }
+        },
+
+//红狐狸影院
+//https://honghuli.com/show/13-----------2025.html
+//非凡
+
+//忆梦影视 Gnpt影院
+//https://www.gnpt.net/vodshow/20--time---------2025.html
+//https://www.gnpt.net/api.php/provide/vod/?ac=list
+
+//
+//爱看影视
+//https://ikan6.vip/
+
+
+//金牌影视
+//https://hnytxj.com/vod/show/id/2/type/14/year/2025
+//https://www.sdzhgt.com/vod/show/id/2/type/14/sortType/1/sortOrder/0/class/古装/area/中国大陆/year/2025/lang/普通话
+//ppvod
+
+//追剧狂人
+//https://www.zjkrmv.vip/vodshow/13-----------.html
+//4K 蓝光 天堂 猫眼 优质 欧克 
+
+//光影迷
+//https://www.guangyingmi.com/pianku-dianshiju--time---------2025.html
+//https://www.guangyingmi.com/pianku-dongman--time---------.html
+//芒果>>芒果#备用节点>>量子#
+
+//6v电影
+//电视剧 > 短剧 > 短剧 国剧 日韩剧
+//首页 最新50部 喜剧片动作片爱情片科幻片恐怖片剧情片战争片纪录片动画片 电视剧 综艺 纪录片
+//https://www.xb6v.com/xijupian/ 喜剧片
+//https://www.xb6v.com/dianshiju/index_3.html
+//https://www.xb6v.com/dianshiju/guoju/
+//https://www.xb6v.com/dianshiju/rihanju/26830.html
+//https://www.xb6v.com/dianshiju/oumeiju/26833.html
+//https://www.xb6v.com/dianshiju/duanju/
+//https://www.xb6v.com/jilupian/
+//https://www.xb6v.com/ZongYi/
+
 
 //金鹰资源M3u8解析接口：https://hd.iapijy.com/play?url=
 //金鹰资源xml采集接口：https://jyzyapi.com/provide/vod/at/xml/
