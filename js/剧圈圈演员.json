@@ -16,10 +16,9 @@
     "作者":"荷城茶秀",
     "站名":"剧圈圈演员", 
     "主页url":"https://www.jqqzx.me",
-    //"请求头":"手机", PHPSESSID=n5k8h219247h61hc2o1h902grj; b-user-id=c08a5c23-7c40-7bb3-d292-fd1b20335ee6; 
 	//MUST Android !!!
-	//"请求头":"cookie$PHPSESSID=ogq5j52b0rsr7e3jnq0li7koq7;#User-Agent$Mozilla/5.0 (Linux; Android 11; Pixel C Build/RQ1A.210205.004) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.90 Safari/537.36 GNews/2021022310#Referer$https://www.jqqzx.me",
-	"请求头":"cookie$gg_iscookie=1; mx_style=white; showBtn=true;#User-Agent$Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; TESLA Build/JOP24G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/534.30#Referer$https://www.jqqzx.me",
+	"请求头":"cookie$PHPSESSID=ofrenn2bfuhjkog4s28g69tv6l; mx_style=white; showBtn=true;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36#Referer$https://www.jqqzx.me",
+	//"请求头":"cookie$gg_iscookie=1; mx_style=white; showBtn=true;#User-Agent$Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; TESLA Build/JOP24G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/534.30#Referer$https://www.jqqzx.me",
     "强制解析":"0",
     "图片代理":"0",
 	
@@ -70,6 +69,7 @@
     {"key":"cateId","name":"收藏女星1","value":[ 
     {"n":"全部","v":""},
 	{"n": "赵露思", "v": "赵露思"},
+	{"n": "庄达菲", "v": "庄达菲"},
 	{"n": "古力娜扎", "v": "古力娜扎"},
 	{"n": "刘诗诗", "v": "刘诗诗"},
 	{"n": "关晓彤", "v": "关晓彤"},

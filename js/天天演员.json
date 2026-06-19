@@ -1,57 +1,58 @@
-//Gimy剧迷
-//https://www.jagcys.com/vodshow/guochanju/year/2024.html
-//https://www.jagcys.com/vodshow/guochanju/by/hits/year/2024.html
-//https://www.jagcys.com/voddetail-84621.html
-//https://www.jagcys.com/vodsearch.html?wd=与凤行
-//https://www.jagcys.com/vodsearch/actor/张晚意/page/1.html
+//天天影院 https://www.baixiaotangtop.com/vodshow/13-----------.html
+//https://www.baixiaotangtop.com/vodsearch/-白鹿------------.html
+//https://www.baixiaotangtop.com/vodsearch/-------------.html?wd=莫离
+
 {
-    "作者":"MrWorkshop",
-    "站名":"Gimy演员", 
-    "主页url":"https://www.jagcys.com/",
+    "作者":"荷城茶秀",
+    "站名":"海兔演员", 
+    "主页url":"https://www.baixiaotangtop.com",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
     "图片代理":"0",
-//分类页面
-    //"二次截取":"<div class=\"module-items module-poster-items-base \">&&</div><div id=\"page\">",
-    "数组":"<div class=\"module-card-item module-item*>&&<span>详情</span>",//<div class=\"module-card-item module-item*>&&<span>详情</span>
-    "标题":"alt=\"&&\"",
+	
+//分类页面 
+    "二次截取":"<ul class=\"ewave-vodlist__media col-pd clearfix\"><&&</ul>",
+    "数组":"<li*>&&</li>", 
+    "标题":"title=\"&&\"",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"<div class=\"module-item-note*>&&</div>+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content*>&&</div>[替换: / >><br>]",
+    "副标题":"<span class=\"pic-text text-right\">更新至第15集</span>[替换:每集>> #更新至第>> #更新至>> #更至>> #]+🌸+<p class=\"text text-overflow text-muted hidden-xs text-actor\">&&</p>",
 	
-    "简介":"🌸+集数：</span>&&</div>+连载：</span>&&</div>+🌸+module-info-introduction-content\">&&</div>[替换:每集>> #更新至>> #更新>> #更至>> #]",
-    "导演":"导演：</span><div class=\"module-info-item-content\">&&</a>+⚡️+🌸+集数：</span>&&</div>+连载：</span>&&</div>",
-    "主演":"主演：</span><div class=\"module-info-item-content\"><a*>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
-	"影片类型":"/class/*>&&</div>[替换:&nbsp;>> #<span class=\"slash\">/</span>>> #]",
-    "影片状态":"更新：</span>&&</div>",
-	"影片年代":"/year/*>&&</a>",
-    "影片地区":"/area/*>&&</a>[替换:连续剧>> #]", //"地区：</span>&&</a>",
+    "简介":"🌸+<span class=\"pic-text text-right\">&&</span>[替换:更新至第>> #更新至>> #更新>> #更至>> #]+🌸+剧情简介：&&<br",
+    "导演":"导演：</span>&&</p>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+    "主演":"主演：</span>&&</p>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+	"影片类型":"类型：</span>&&</p>[替换:&nbsp;>> #<span class=\"slash\">/</span>>> #]",
+    //"影片状态":"更新：</span>&&</div>",
+	"影片年代":"年份：</span>&&</a>",
+    "影片地区":"地区：</span>&&</a>[替换:连续剧>> #]", 
 	
 //搜索页面
-//   "搜索url": "/vodsearch.html?wd={wd}", //https://www.jagcys.com/vodsearch.html?wd=与凤行
-//   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
-//   "搜索数组": "<div class=\"module-card-item-class\">&&<div class=\"module-card-item-footer\">",
-//   "搜索副标题": "module-item-note\">&&</div>[替换:更新至>> #更至>> #更新>> #]",
-//   "搜索标题": "alt=\"&&\"",
-//   "搜索图片": "data-original=\"&&\"",
-//   "搜索链接": "<a class=\"video-serial\" href=\"&&\"",
+   "搜索url": "/vodsearch/-------------.html?wd={wd}", //https://www.baixiaotangtop.com/vodsearch/-------------.html?wd=莫离
+   "搜索数组二次截取":"<li class=*>&&查看详情",
+   "搜索数组": "<div class=\"thumb\">&&立即播放",
+   "搜索副标题": "<span class=\"pic-text text-right\">&&</span>[替换:更新至第>> #更至>> #更新>> #]",
+   "搜索标题": "title=\"&&\"",
+   "搜索图片": "data-original=\"&&\"",
+   "搜索链接": "href=\"&&\"",
 
 
+    //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#RY线路>>如意#DB线路>>豆瓣#ME线路>>黑木耳#HW线路>>华为吧#YZ线路>>优质#FF线路>>非凡#KK线路>>快看#]",
+    //"线路标题":"🌸+<span>&&</small>[排序:如意>黑木耳>天涯>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豆瓣>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 
-//播放列表
-    //"线路二次截取": "",
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #蓝光高清>>黑木耳#主线>>索尼#备用线路①>>爱坤#备用线路②>>快看#剧迷主线>>索尼#剧迷备用线路①>>爱坤#剧迷备用线路②>>快看#剧迷索尼>>索尼#剧迷快看>>快看#剧迷爱坤>>爱坤#剧迷快看>>快看#]",
-    "线路标题":"🌸+<span>&&</small>[排序:黑木耳>華為>非凡>爱坤>量子>索尼>快看>快云>天空>优质>乐视>最大>八戒>飛速>暴风>櫻花>快车>U酷>金鹰>闪电>海外>高清>極速>无尽>红牛>极速>独家>专线>超清>豪华]",
-    
-    //"播放二次截取": "",
-	//"播放数组":"id=\"glist&&<em",
-	//"播放数组":"<div class=\"module-blocklist&&</div>",
-    //"播放标题":"<span>&&</span>",
-    //"播放列表":"<a&&</a>",
+    //"播放二次截取": "",//all playlist
+	//"播放数组":"<div class=\"module-blocklist&&</div>",//one playlist
+    //"播放标题":"<span>&&</span>", //one episod
+    //"播放列表":"<a&&</a>", //one episod
+	//"播放链接":"href=\"&&\"", //one episod
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-            //https://www.jagcys.com/vodsearch/actor/张晚意/page/1.html
-    "分类url":"https://www.jagcys.com/vodsearch/actor/{cateId}/page/{catePg}.html",
+
+    //"分类url":"https://www.baixiaotangtop.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+            //https://www.baixiaotangtop.com/vodshow/2-----------2024.html
+    //"分类":"国产剧$25#韩剧$16#国产动漫$33#电影$1#电视剧$2#综艺$3#动漫$4#短剧$42#",
+
+            //https://www.baixiaotangtop.com/vodsearch/-白鹿------------.html
+    "分类url":"https://www.baixiaotangtop.com/vodsearch/-{cateId}---------{catePg}---.html",
     "分类":"🌸收藏$金珠贤#🌸女星$徐若晗#🌸男星$张若昀#🌸韩星$宋慧乔#⚡️赵丽颖$赵丽颖#杨幂$杨幂#⚡️许凯$许凯#张若昀$张若昀#",
 
   
@@ -1209,6 +1210,7 @@
         "name": "时间",
         "value": [
           { "n": "全部时间", "v": "" },
+          {"n":"2026","v":"2026"},
           {"n":"2025","v":"2025"},
 	      {"n":"2024","v":"2024"},
           { "n": "2023", "v": "2023" },
