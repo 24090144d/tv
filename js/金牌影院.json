@@ -17,21 +17,21 @@
 
 
 {
-    "作者":"荷城茶秀",
-    "站名":"金牌影院", 
-    "主页url":"https://www.x8kb9k8.com",
-	"请求头":"cookie$PHPSESSID=oq71nk4m3jqnr817utci724jff; recente=%5B%7B%22vod_name%22%3A%22%E8%8E%AB%E7%A6%BB%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.baixiaotangtop.com%2Fvodplay%2F116348-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$https://www.x8kb9k8.com",
-    "强制解析":"0",
-    "图片代理":"0",
+  "作者": "荷城茶秀",
+  "站名": "金牌影院",
+  "主页url": "https://www.jinpaiyingyuan.com",
+  "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+  "强制解析": "0",
+  "图片代理": "0",
 	
 //分类页面
-
-    "二次截取":"<div class=\"movie-ul\">&&<div class=\"pagination\">",
-    "数组":"<a class=\"content-card*>&&</a>",
-    "标题":"title=\"&&\"",
-    "副标题":"<span class=\"remarks\">&&</span>[替换:更新至第>> #更新至>> #每集>> #]+🌸+主演：<!-- -->&&</div>",
-    "图片":"src=\"&&\"", 
-    "链接":"href=\"&&\"",
+  "二次截取": "\\\"videoList\\\":{\\\"code\\\":200&&]}}}",
+  "数组": "{\\\"vodId\\\"&&\\\"abImage\\\":null}",
+  "标题": "\\\"vodName\\\":\\\"&&\\\"",
+  "图片": "\\\"vodPic\\\":\\\"&&\\\"",
+  "链接": "\\\"vodId\\\":&&,",
+  "链接前缀": "/detail/",
+  "副标题": "\\\"vodRemarks\\\":\\\"&&\\\"+🌸+\\\"vodActor\\\":\\\"&&\\\"",
 
     "简介":"🌸+<div class=\"wrapper_more_text*>&&</div>",
     //"导演":"导演：</span>&&</a>+⚡️+片长：</span><div class=\"module-info-item-content\">&&</div>[替换:更新至第>> #更新至>> #每集>> #]",
