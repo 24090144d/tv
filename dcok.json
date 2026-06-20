@@ -9,15 +9,12 @@
 {"urls":[
 {"name":"🐯自定favGH","url":"https://raw.githubusercontent.com/24090144d/tv/main/favgh.json"},
 {"name":"🐯自定fav","url":"http://williamc.tplinkdns.com/iptv/fav.json"},
+{"name":"🐯讴歌线路","url":"http://tv.nxog.top/m"},
 {"name":"🐯自定fty","url":"http://williamc.tplinkdns.com/iptv/fty/fty.json"},
 {"name":"🐯自定liu","url":"https://raw.liucn.cc/box/m.json"},
 {"name":"🐯自定dianshi","url":"https://github.com/qist/tvbox/raw/refs/heads/master/dianshi.json"},
 {"name":"🐯自定jsm","url":"https://github.com/qist/tvbox/raw/refs/heads/master/jsm.json"},
-{"name":"🐯自定zy","url":"https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/zy.json"},
-//{"name":"🐯自定ocean","url":"https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json"},
-//{"name":"🐯自定nitan","url":"https://nitan.ggff.net/config.json"},
 {"name":"🐯自定R18","url":"https://github.com/scovis/TVBox/raw/refs/heads/main/R18.json"},
-{"name":"🐯自定py","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/refs/heads/main/py.json"},
 {"name":"🐯影视仓","url":"http://47.120.41.246:8025/vip/vip/tv.json"},
 
 //https://ztha.top/TVBox/GYCK.json
